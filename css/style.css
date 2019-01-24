@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #FF6138;
+  color: #FFFF9D;
+  font-size: 10px;
+  box-sizing: border-box; }
+
+.header {
+  background-color: #79DB8F; }
+
+.footer {
+  background-color: #00A388; }
+
+/*# sourceMappingURL=style.css.map */
